@@ -2,14 +2,6 @@
 
 This project simulates simple harmonic motion (SHM) and damped oscillations of a mass-spring system using Python. By numerically solving the differential equations for motion, it models oscillatory behavior under different damping conditions and visualizes the results.
 
-## Table of Contents
-- [Description](#description)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [License](#license)
-
 ## Description
 
 The simulation models two cases of harmonic oscillators:
